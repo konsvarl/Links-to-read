@@ -7,5 +7,6 @@
     
 ## Fiber
   - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-  - [Thousands of Color-coded Visualizations in React](https://ponyfoo.com/articles/color-coded-visualizations-react) by Nicolás Bevacqua.  
-    It leads to the comprehension why Fiber architecture arised.
+  - [Thousands of Color-coded Visualizations in React](https://ponyfoo.com/articles/color-coded-visualizations-react) by Nicolás Bevacqua. 
+    It leads to the comprehension why Fiber architecture arised.  
+  - [Fiber Principles](https://github.com/facebook/react/issues/7942)
